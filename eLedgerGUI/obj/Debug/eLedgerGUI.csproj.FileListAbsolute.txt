@@ -1,0 +1,10 @@
+D:\eLedger\eLedgerGUI\bin\Debug\eLedgerGUI.exe.config
+D:\eLedger\eLedgerGUI\bin\Debug\eLedgerGUI.exe
+D:\eLedger\eLedgerGUI\bin\Debug\eLedgerGUI.pdb
+D:\eLedger\eLedgerGUI\obj\Debug\eLedgerGUI.csprojAssemblyReference.cache
+D:\eLedger\eLedgerGUI\obj\Debug\eLedgerGUI.eLedger.resources
+D:\eLedger\eLedgerGUI\obj\Debug\eLedgerGUI.Properties.Resources.resources
+D:\eLedger\eLedgerGUI\obj\Debug\eLedgerGUI.csproj.GenerateResource.cache
+D:\eLedger\eLedgerGUI\obj\Debug\eLedgerGUI.csproj.CoreCompileInputs.cache
+D:\eLedger\eLedgerGUI\obj\Debug\eLedgerGUI.exe
+D:\eLedger\eLedgerGUI\obj\Debug\eLedgerGUI.pdb

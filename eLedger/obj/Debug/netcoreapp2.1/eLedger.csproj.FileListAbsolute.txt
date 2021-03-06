@@ -1,0 +1,12 @@
+D:\eLedger\eLedger\obj\Debug\netcoreapp2.1\eLedger.csprojAssemblyReference.cache
+D:\eLedger\eLedger\obj\Debug\netcoreapp2.1\eLedger.csproj.CoreCompileInputs.cache
+D:\eLedger\eLedger\obj\Debug\netcoreapp2.1\eLedger.AssemblyInfoInputs.cache
+D:\eLedger\eLedger\obj\Debug\netcoreapp2.1\eLedger.AssemblyInfo.cs
+D:\eLedger\eLedger\bin\Debug\netcoreapp2.1\eLedger.deps.json
+D:\eLedger\eLedger\bin\Debug\netcoreapp2.1\eLedger.runtimeconfig.json
+D:\eLedger\eLedger\bin\Debug\netcoreapp2.1\eLedger.runtimeconfig.dev.json
+D:\eLedger\eLedger\bin\Debug\netcoreapp2.1\eLedger.dll
+D:\eLedger\eLedger\bin\Debug\netcoreapp2.1\eLedger.pdb
+D:\eLedger\eLedger\obj\Debug\netcoreapp2.1\eLedger.dll
+D:\eLedger\eLedger\obj\Debug\netcoreapp2.1\eLedger.pdb
+D:\eLedger\eLedger\obj\Debug\netcoreapp2.1\eLedger.genruntimeconfig.cache
