@@ -1,3 +1,4 @@
 -List moneys with precision of 2 after the decimal place
 -List dates with precision of 2 before the decimal place
 -File writing and exiting gracefully
+-Switch from CSV to JSON format
